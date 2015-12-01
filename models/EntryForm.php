@@ -1,14 +1,14 @@
 <?php
 
+namespace app\models;
+
+use yii\base\Model;
+
 /**
  * Save users data
  *
  * @author porfirovskiy
  */
-
-namespace app\models;
-
-use yii\base\Model;
 
 class EntryForm extends Model
 {
