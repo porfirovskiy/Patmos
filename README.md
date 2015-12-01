@@ -1,2 +1,2 @@
 # Patmos
-yii2 test progect
+yii2 test project
